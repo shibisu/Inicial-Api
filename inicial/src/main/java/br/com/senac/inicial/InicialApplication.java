@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class InicialApplication {
 
 	// primeira alteração
+
 	public static void main(String[] args) {
 		SpringApplication.run(InicialApplication.class, args);
 	}
